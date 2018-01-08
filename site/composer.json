@@ -39,8 +39,8 @@
     "johnpbloch/wordpress": "4.9.1",
     "oscarotero/env": "^1.1.0",
     "wpackagist-plugin/jetpack": "^5.7",
-    "wpackagist-plugin/shareadraft": "1.5",
-    "wpackagist-plugin/post-snippets": "2.5.4",
+    "wpackagist-plugin/shareadraft": "^1.5",
+    "wpackagist-plugin/post-snippets": "^2.5",
     "roots/wp-password-bcrypt": "1.0.0"
   },
   "require-dev": {
