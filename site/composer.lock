@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "e40ed55f4abdef2052557074d28d541b",
+    "content-hash": "ac2fd2b8905880ef99fabbddf26e4a95",
     "packages": [
         {
             "name": "composer/installers",
@@ -462,6 +462,26 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/shareadraft/"
+        },
+        {
+            "name": "wpackagist-theme/lingonberry",
+            "version": "1.41",
+            "source": {
+                "type": "svn",
+                "url": "https://themes.svn.wordpress.org/lingonberry/",
+                "reference": "1.41"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/theme/lingonberry.1.41.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-theme",
+            "homepage": "https://wordpress.org/themes/lingonberry/"
         }
     ],
     "packages-dev": [
