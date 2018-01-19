@@ -42,7 +42,8 @@
     "wpackagist-plugin/shareadraft": "^1.5",
     "wpackagist-plugin/post-snippets": "^2.5",
     "roots/wp-password-bcrypt": "1.0.0",
-    "wpackagist-theme/lingonberry": "^1.41"
+    "wpackagist-theme/lingonberry": "^1.41",
+    "wpackagist-plugin/enlighter": "^3.5"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.0.2"
