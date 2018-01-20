@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "b3b7289a52c340691f639bea642d5d77",
+    "content-hash": "9649c0cc0619601968cbb16841284c79",
     "packages": [
         {
             "name": "composer/installers",
@@ -422,26 +422,6 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/enlighter/"
-        },
-        {
-            "name": "wpackagist-plugin/google-sitemap-generator",
-            "version": "4.0.9",
-            "source": {
-                "type": "svn",
-                "url": "https://plugins.svn.wordpress.org/google-sitemap-generator/",
-                "reference": "tags/4.0.9"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/google-sitemap-generator.4.0.9.zip",
-                "reference": null,
-                "shasum": null
-            },
-            "require": {
-                "composer/installers": "~1.0"
-            },
-            "type": "wordpress-plugin",
-            "homepage": "https://wordpress.org/plugins/google-sitemap-generator/"
         },
         {
             "name": "wpackagist-plugin/gutenberg",
