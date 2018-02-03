@@ -53,7 +53,8 @@
     "wpackagist-theme/raindrops": "^1.508",
     "wpackagist-plugin/html-forms": "^1.1",
     "wpackagist-plugin/vaultpress": "^1.9",
-    "wpackagist-plugin/akismet": "^4.0"
+    "wpackagist-plugin/akismet": "^4.0",
+    "wpackagist-plugin/wordpress-seo": "^6.2"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.0.2"
