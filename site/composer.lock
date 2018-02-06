@@ -505,15 +505,15 @@
         },
         {
             "name": "wpackagist-plugin/jetpack",
-            "version": "5.7.1",
+            "version": "5.8",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/jetpack/",
-                "reference": "tags/5.7.1"
+                "reference": "tags/5.8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/jetpack.5.7.1.zip",
+                "url": "https://downloads.wordpress.org/plugin/jetpack.5.8.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -745,15 +745,15 @@
         },
         {
             "name": "wpackagist-plugin/wpforms-lite",
-            "version": "1.4.3",
+            "version": "1.4.4",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wpforms-lite/",
-                "reference": "tags/1.4.3"
+                "reference": "tags/1.4.4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wpforms-lite.1.4.3.zip",
+                "url": "https://downloads.wordpress.org/plugin/wpforms-lite.1.4.4.zip",
                 "reference": null,
                 "shasum": null
             },
