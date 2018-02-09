@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "6cac5cad30473ad9f2e30a1ed2a18a9d",
+    "content-hash": "607d7790b0395503984338c215dbc1da",
     "packages": [
         {
             "name": "composer/installers",
@@ -582,26 +582,6 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/shareadraft/"
-        },
-        {
-            "name": "wpackagist-plugin/shortcode-ui",
-            "version": "0.7.3",
-            "source": {
-                "type": "svn",
-                "url": "https://plugins.svn.wordpress.org/shortcode-ui/",
-                "reference": "tags/0.7.3"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/shortcode-ui.0.7.3.zip",
-                "reference": null,
-                "shasum": null
-            },
-            "require": {
-                "composer/installers": "~1.0"
-            },
-            "type": "wordpress-plugin",
-            "homepage": "https://wordpress.org/plugins/shortcode-ui/"
         },
         {
             "name": "wpackagist-plugin/shortcodes-ultimate",

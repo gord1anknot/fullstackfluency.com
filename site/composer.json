@@ -45,7 +45,6 @@
     "wpackagist-theme/lingonberry": "^1.41",
     "wpackagist-plugin/enlighter": "^3.5",
     "wpackagist-plugin/wp-super-cache": "^1.5",
-    "wpackagist-plugin/shortcode-ui": "^0.7.3",
     "wpackagist-plugin/tinymce-advanced": "^4.6",
     "wpackagist-plugin/shortcodes-ultimate": "^5.0",
     "wpackagist-plugin/mailchimp-for-wp": "^4.1",
