@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "09f9b70b7f4b672123bbbe0086c17eff",
+    "content-hash": "6cac5cad30473ad9f2e30a1ed2a18a9d",
     "packages": [
         {
             "name": "composer/installers",
@@ -482,26 +482,6 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/html-forms/"
-        },
-        {
-            "name": "wpackagist-plugin/insert-headers-and-footers",
-            "version": "1.4.2",
-            "source": {
-                "type": "svn",
-                "url": "https://plugins.svn.wordpress.org/insert-headers-and-footers/",
-                "reference": "tags/1.4.2"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/insert-headers-and-footers.1.4.2.zip",
-                "reference": null,
-                "shasum": null
-            },
-            "require": {
-                "composer/installers": "~1.0"
-            },
-            "type": "wordpress-plugin",
-            "homepage": "https://wordpress.org/plugins/insert-headers-and-footers/"
         },
         {
             "name": "wpackagist-plugin/jetpack",
