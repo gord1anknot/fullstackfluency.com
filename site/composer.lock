@@ -585,15 +585,15 @@
         },
         {
             "name": "wpackagist-plugin/shortcodes-ultimate",
-            "version": "5.0.2",
+            "version": "5.0.3",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/shortcodes-ultimate/",
-                "reference": "tags/5.0.2"
+                "reference": "tags/5.0.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/shortcodes-ultimate.5.0.2.zip",
+                "url": "https://downloads.wordpress.org/plugin/shortcodes-ultimate.5.0.3.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -665,15 +665,15 @@
         },
         {
             "name": "wpackagist-plugin/wordpress-seo",
-            "version": "6.2",
+            "version": "6.3",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wordpress-seo/",
-                "reference": "tags/6.2"
+                "reference": "tags/6.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.6.2.zip",
+                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.6.3.zip",
                 "reference": null,
                 "shasum": null
             },
