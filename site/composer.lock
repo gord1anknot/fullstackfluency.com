@@ -405,15 +405,15 @@
         },
         {
             "name": "wpackagist-plugin/akismet",
-            "version": "4.0.2",
+            "version": "4.0.3",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/akismet/",
-                "reference": "tags/4.0.2"
+                "reference": "tags/4.0.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/akismet.4.0.2.zip",
+                "url": "https://downloads.wordpress.org/plugin/akismet.4.0.3.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -665,15 +665,15 @@
         },
         {
             "name": "wpackagist-plugin/wordpress-seo",
-            "version": "6.3",
+            "version": "6.3.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wordpress-seo/",
-                "reference": "tags/6.3"
+                "reference": "tags/6.3.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.6.3.zip",
+                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.6.3.1.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -705,15 +705,15 @@
         },
         {
             "name": "wpackagist-plugin/wpforms-lite",
-            "version": "1.4.4",
+            "version": "1.4.4.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wpforms-lite/",
-                "reference": "tags/1.4.4"
+                "reference": "tags/1.4.4.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wpforms-lite.1.4.4.zip",
+                "url": "https://downloads.wordpress.org/plugin/wpforms-lite.1.4.4.1.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -725,15 +725,15 @@
         },
         {
             "name": "wpackagist-theme/hestia",
-            "version": "1.1.62",
+            "version": "1.1.66",
             "source": {
                 "type": "svn",
                 "url": "https://themes.svn.wordpress.org/hestia/",
-                "reference": "1.1.62"
+                "reference": "1.1.66"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/hestia.1.1.62.zip",
+                "url": "https://downloads.wordpress.org/theme/hestia.1.1.66.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -765,15 +765,15 @@
         },
         {
             "name": "wpackagist-theme/raindrops",
-            "version": "1.509",
+            "version": "1.510",
             "source": {
                 "type": "svn",
                 "url": "https://themes.svn.wordpress.org/raindrops/",
-                "reference": "1.509"
+                "reference": "1.510"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/raindrops.1.509.zip",
+                "url": "https://downloads.wordpress.org/theme/raindrops.1.510.zip",
                 "reference": null,
                 "shasum": null
             },
