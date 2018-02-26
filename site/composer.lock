@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "87f692e43dd5d31bbc1f9c221fd78b64",
+    "content-hash": "f67ce1707b9e17557e3e00430061db7c",
     "packages": [
         {
             "name": "composer/installers",
@@ -562,6 +562,26 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/post-snippets/"
+        },
+        {
+            "name": "wpackagist-plugin/powered-cache",
+            "version": "1.2",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/powered-cache/",
+                "reference": "tags/1.2"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/powered-cache.1.2.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/powered-cache/"
         },
         {
             "name": "wpackagist-plugin/shareadraft",
