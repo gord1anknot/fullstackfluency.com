@@ -2,7 +2,7 @@
 # List each machine only once per [group], even if it will host multiple sites.
 
 [production]
-fullstackfluency.com remote_user=ubuntu private_key_file=~/.ssh/fullstackfluency.pem
+ec2-54-85-131-199.compute-1.amazonaws.com remote_user=ubuntu private_key_file=~/.ssh/fullstackfluency.pem  
 
 [web]
-fullstackfluency.com remote_user=ubuntu private_key_file=~/.ssh/fullstackfluency.pem
+ec2-54-85-131-199.compute-1.amazonaws.com remote_user=ubuntu private_key_file=~/.ssh/fullstackfluency.pem  
