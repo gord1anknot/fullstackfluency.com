@@ -725,15 +725,15 @@
         },
         {
             "name": "wpackagist-theme/hestia",
-            "version": "1.1.70",
+            "version": "1.1.71",
             "source": {
                 "type": "svn",
                 "url": "https://themes.svn.wordpress.org/hestia/",
-                "reference": "1.1.70"
+                "reference": "1.1.71"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/hestia.1.1.70.zip",
+                "url": "https://downloads.wordpress.org/theme/hestia.1.1.71.zip",
                 "reference": null,
                 "shasum": null
             },
