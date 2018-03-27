@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "f67ce1707b9e17557e3e00430061db7c",
+    "content-hash": "438f05390ade03bb09aa4bffe62328c3",
     "packages": [
         {
             "name": "composer/installers",
@@ -504,26 +504,6 @@
             "homepage": "https://wordpress.org/plugins/jetpack/"
         },
         {
-            "name": "wpackagist-plugin/mailchimp-for-wp",
-            "version": "4.2",
-            "source": {
-                "type": "svn",
-                "url": "https://plugins.svn.wordpress.org/mailchimp-for-wp/",
-                "reference": "tags/4.2"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/mailchimp-for-wp.4.2.zip",
-                "reference": null,
-                "shasum": null
-            },
-            "require": {
-                "composer/installers": "~1.0"
-            },
-            "type": "wordpress-plugin",
-            "homepage": "https://wordpress.org/plugins/mailchimp-for-wp/"
-        },
-        {
             "name": "wpackagist-plugin/optinmonster",
             "version": "1.3.4",
             "source": {
@@ -705,15 +685,15 @@
         },
         {
             "name": "wpackagist-plugin/wpforms-lite",
-            "version": "1.4.4.1",
+            "version": "1.4.5.2",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wpforms-lite/",
-                "reference": "tags/1.4.4.1"
+                "reference": "tags/1.4.5.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wpforms-lite.1.4.4.1.zip",
+                "url": "https://downloads.wordpress.org/plugin/wpforms-lite.1.4.5.2.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -765,15 +745,15 @@
         },
         {
             "name": "wpackagist-theme/raindrops",
-            "version": "1.512",
+            "version": "1.513",
             "source": {
                 "type": "svn",
                 "url": "https://themes.svn.wordpress.org/raindrops/",
-                "reference": "1.512"
+                "reference": "1.513"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/raindrops.1.512.zip",
+                "url": "https://downloads.wordpress.org/theme/raindrops.1.513.zip",
                 "reference": null,
                 "shasum": null
             },
