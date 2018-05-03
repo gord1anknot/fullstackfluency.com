@@ -1,7 +1,7 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
     "content-hash": "dee57bafb34cc7a2c82ef29a42fd1e59",
@@ -465,15 +465,15 @@
         },
         {
             "name": "wpackagist-plugin/html-forms",
-            "version": "1.1.4",
+            "version": "1.2.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/html-forms/",
-                "reference": "tags/1.1.4"
+                "reference": "tags/1.2.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/html-forms.1.1.4.zip",
+                "url": "https://downloads.wordpress.org/plugin/html-forms.1.2.0.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -705,15 +705,15 @@
         },
         {
             "name": "wpackagist-theme/hestia",
-            "version": "1.1.71",
+            "version": "1.1.73",
             "source": {
                 "type": "svn",
                 "url": "https://themes.svn.wordpress.org/hestia/",
-                "reference": "1.1.71"
+                "reference": "1.1.73"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/hestia.1.1.71.zip",
+                "url": "https://downloads.wordpress.org/theme/hestia.1.1.73.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -745,15 +745,15 @@
         },
         {
             "name": "wpackagist-theme/raindrops",
-            "version": "1.513",
+            "version": "1.518",
             "source": {
                 "type": "svn",
                 "url": "https://themes.svn.wordpress.org/raindrops/",
-                "reference": "1.513"
+                "reference": "1.518"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/raindrops.1.513.zip",
+                "url": "https://downloads.wordpress.org/theme/raindrops.1.518.zip",
                 "reference": null,
                 "shasum": null
             },
